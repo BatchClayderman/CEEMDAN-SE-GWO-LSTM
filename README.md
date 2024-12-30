@@ -7,6 +7,8 @@ This is a repo for implementing CEEMDAN-SE-GWO-LSTM. CEEMDAN-SE and GWO-LSTM are
 - GWO: Lead the LSTM as the optimizer.
 - LSTM: The core training part. 
 
-This repo will no longer be under maintenance. Continuing usage may lead to potential errors and exceptions. 
+### Cautions
+
+This repo will **no longer be under maintenance**. Continuing usage may lead to potential errors and exceptions. 
 
 To train the related time-series models (with a GUI), please refer to [https://github.com/BatchClayderman/ForestAdvisor](https://github.com/BatchClayderman/ForestAdvisor). 
